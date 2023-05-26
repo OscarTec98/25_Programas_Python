@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que muestra la suma y el producto de todos los numeros pares entre 15 y 20
 
 numeros = [15,16,17,18,19,20]
