@@ -1,7 +1,7 @@
 #García Vázquez Oscar Daniel - 18212189
 
 #Algoritmo que implementa el MergeSort de una lista de valores predefinidos para demostrar la función
-
+#Al final despliega la lista ordenada
 def merge_sort(arr):
     if len(arr) <= 1:
         return arr
