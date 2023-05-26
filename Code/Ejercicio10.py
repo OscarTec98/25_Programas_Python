@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que se detiene una vez que el usuario ingrese el numero 0
 numero = 0
 
