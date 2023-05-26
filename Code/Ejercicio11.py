@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que comprueba si es posible realizar una división
 
 # Se deben ingresar dos numeros
