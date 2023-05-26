@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que convierte dolares en forma DECIMAL a monedas
 
 dllrs = float(input("Ingrese dolares"))
