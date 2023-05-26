@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que imprime el numero de segundos segun los DIAS, HORAS, MINUTOS Y SEGUNDOS dados por el USUARIO
 SEC_DIA = 24*60*60
 SEC_HORA = 60 * 60
