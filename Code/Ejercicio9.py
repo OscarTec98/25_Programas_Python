@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que determina la categoria de edad en que se encuentra el usuario.
 edad = int(input("Ingrese su edad: "))
 
