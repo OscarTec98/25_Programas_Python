@@ -1,3 +1,5 @@
+#García Vázquez Oscar Daniel - 18212189
+
 #Programa que determina si un numero dado es PAR o IMPAR
 num = int(input("Ingrese un numero"))
 
